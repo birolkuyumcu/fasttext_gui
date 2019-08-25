@@ -1,2 +1,2 @@
-# fastext_gui
+# fasttext_gui
 gui for fasttext 
