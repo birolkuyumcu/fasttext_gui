@@ -1,0 +1,10 @@
+/example/models/dbpedia_1.svg
+/example/models/dbpedia_1.vec
+/example/models/dbpedia_1.bin
+/example/models/dbpedia_1.log
+/example/dbpedia_csv/train.csv
+/example/dbpedia_csv/test.csv
+/example/dbpedia.train
+/example/dbpedia.test
+/gui/*.pyc
+/gui/temp.bat
