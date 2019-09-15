@@ -8,3 +8,6 @@
 /example/dbpedia.test
 /gui/*.pyc
 /gui/temp.bat
+build
+dist
+fasttext_gui_main.build
