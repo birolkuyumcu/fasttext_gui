@@ -11,3 +11,5 @@
 build
 dist
 fasttext_gui_main.build
+haber
+models
